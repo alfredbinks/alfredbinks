@@ -1,4 +1,8 @@
+
+<p align="center">
+─────────────────────────────────────
 </p>
+
 
 
 <img align='right' src="https://cdn.discordapp.com/attachments/819601542347882509/821150739576651777/tenor_4.gif" width="230">
@@ -16,3 +20,8 @@ const heassson = {
         databases: ["MySql", "oracle"],
     }
 };
+```
+<p align="center">
+─────────────────────────────────────
+</p>
+
