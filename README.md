@@ -10,7 +10,7 @@
 ```javascript
 const heassson = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["WEB DEV", "TECH", "GAME", "C#"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
