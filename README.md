@@ -14,8 +14,8 @@ const heassson = {
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
-            html: [""]
+            css: ["bootstrap", "sass"],
+            html: [""],
             jQuery: [""]
         },
         backEnd: ["JAVA", "PHP", "C#", "PYTHON"],
