@@ -10,14 +10,16 @@
 ```javascript
 const heassson = {
     pronouns: "He" | "Him",
-    askMeAbout: ["WEB DEV", "TECH", "GAME", "C#"],
+    askMeAbout: ["WEB DEV", "TECH", "GAME"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
             css: ["bootstrap", "sass"]
+            html: [""]
+            jQuery: [""]
         },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
+        backEnd: ["JAVA", "PHP", "C#", "PYTHON"],
+        databases: ["MYSQL", "ORACLE"],
     }
 };
 ```
